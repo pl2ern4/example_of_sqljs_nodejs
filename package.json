@@ -1,0 +1,22 @@
+{
+  "name": "sql_using_js",
+  "version": "1.0.0",
+  "description": "sql/node js ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pl2ern4/shortProjects.git"
+  },
+  "author": "prerna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pl2ern4/shortProjects/issues"
+  },
+  "homepage": "https://github.com/pl2ern4/shortProjects#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
